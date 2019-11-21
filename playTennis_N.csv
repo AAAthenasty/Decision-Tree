@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,Decision
+sunny,hot,0.9,FALSE,n
+sunny,hot,0.87,TRUE,n
+overcast,hot,0.93,FALSE,p
+rain,mild,0.89,FALSE,p
+rain,cool,0.8,FALSE,p
+rain,cool,0.59,TRUE,n
+overcast,cool,0.77,TRUE,p
+sunny,mild,0.91,FALSE,n
+sunny,cool,0.68,FALSE,p
+rain,mild,0.84,FALSE,p
+sunny,mild,0.72,TRUE,p
+overcast,mild,0.49,TRUE,p
+overcast,hot,0.74,FALSE,p
+rain,mild,0.86,TRUE,n
